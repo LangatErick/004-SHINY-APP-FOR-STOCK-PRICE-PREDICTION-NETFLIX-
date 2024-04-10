@@ -9,4 +9,6 @@ You will click on the circled area to proceed
 ## Lets check the Visualization *line graph *Scatter plot
 ![image](https://github.com/LangatErick/Learning_Labs-8-1-SHINY-APP-FOR-STOCK-PRICE-PREDICTION-NETFLIX-/assets/124883947/366f9e07-dfc9-4b74-97ca-584108526180)
 ![image](https://github.com/LangatErick/Learning_Labs-8-1-SHINY-APP-FOR-STOCK-PRICE-PREDICTION-NETFLIX-/assets/124883947/f8d0719e-8122-4260-a489-6b79c206c265)
+## Let's Predict the Stock Price at USD154
+![image](https://github.com/LangatErick/Learning_Labs-8-1-SHINY-APP-FOR-STOCK-PRICE-PREDICTION-NETFLIX-/assets/124883947/d172eefa-ec7c-43f1-8e35-4be2f214ff18)
 
